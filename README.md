@@ -16,21 +16,33 @@ To Build This Projects Makefile:
 This Project Requires Some Tools Installed:
 as, cp, gcc, grub-mkrescue, ld, qemu-system-i386, rm
 **AS Install *Terminal***
+
+
     sudo apt install as
     
 **CP Install *Terminal***
+
+
     sudo apt install cp
 
 **GCC Install *Terminal***
+
+
     sudo apt install gcc
 
 **Grub Install *Terminal***
+
+
     sudo apt install grub-common
 
 **LD Install *Terminal***
+
+
     sudo apt install ld
 
 **Qemu Install *Terminal***
+
+
     sudo snap install qemu-virgil
 
 **RM Install *Terminal***
