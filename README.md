@@ -54,6 +54,9 @@ as, cp, gcc, grub-mkrescue, ld, qemu-system-i386, rm
     sudo snap install qemu-virgil
 
 **RM Install *Terminal***
+
+
+
     sudo apt install rm
 
 
