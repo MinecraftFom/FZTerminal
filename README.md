@@ -9,6 +9,8 @@ This Project Can Be Loaded As An Operating System.
 The Bootloader Hasn't Been Finished Yet.
 To Build This Projects Makefile:
 *Terminal*
+
+
     make clean
     make
     make qemu
