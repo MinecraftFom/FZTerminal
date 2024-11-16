@@ -8,6 +8,9 @@ This Project Is In Prerelease Mode And Now Can Only Print Hello World In The Con
 This Project Can Be Loaded As An Operating System.
 The Bootloader Hasn't Been Finished Yet.
 To Build This Projects Makefile:
+
+
+
 *Terminal*
 
 
